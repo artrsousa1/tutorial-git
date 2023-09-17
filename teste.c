@@ -3,6 +3,6 @@
 #include <stdbool.h>
 
 int main() {
-    printf("Testando!");
+    printf("ola mundo");
     return 0;
 }
